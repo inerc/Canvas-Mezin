@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5975a10-de9a-4b6f-a749-8ffd8a593b0e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Canvas/crate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Canvas/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Canvas/js/game.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Canvas/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Canvas/wall.png" afterPath="" />
-    </list>
+    <list default="true" id="e5975a10-de9a-4b6f-a749-8ffd8a593b0e" name="Default" comment="" />
     <ignored path="Canvas.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
